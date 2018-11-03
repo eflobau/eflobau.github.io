@@ -7,7 +7,12 @@ In this blog I'm going describe the overall pipeline of my article [Functional p
 
 ![_config.yml]({{_site.baseurl_}}/images/Graphical_abstract_post_arti.png)
 
-You can read through the workflow in the following link. 
+
+You can read through the workflow in the following [link]().
+
+Check out this interactive vis: 
+
+![_config.yml]({{_site.baseurl_}}/images/interactive_clusters.html)
 
 Enjoy ! 
 
