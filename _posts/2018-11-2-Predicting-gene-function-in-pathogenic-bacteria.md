@@ -3,4 +3,4 @@ layout: post
 title: Predicting the function of unkown transcription factors in P. aeruginosa using supervised learning
 ---
 
-In this blog post I'm going to continue the pipeline of my article [Functional prediction of hypothetical transcription factors of *E.coli* K-12](https://www.sciencedirect.com/science/article/pii/S2001037017301083). 
+In this blog post I'm going to continue the pipeline of my article [Functional prediction of hypothetical transcription factors of *E.coli* K-12](https://www.sciencedirect.com/science/article/pii/S2001037017301083). However, I'm going to add a little twist to the former, with a little of network science and supervised learning.
