@@ -8,7 +8,7 @@ In this blog I'm going describe the overall pipeline of my article [Functional p
 ![_config.yml]({{_site.baseurl_}}/images/Graphical_abstract_post_arti.png)
 
 
-You can read through the workflow in the following [link]().
+You can read through the workflow in the following [link](http://nbviewer.jupyter.org/github/eflobau/eflobau.github.io/blob/master/notebooks/260818-PCA-tSNE-SpectralClustering-EFB-publish-v2.ipynb).
 
 Check out this interactive vis: 
 
