@@ -1,0 +1,41 @@
+Que onda banda! Como les he dicho estoy armando un taller de ciencia de datos que abarca desde una introducción a python hasta el uso de un modelo de machine learning. Este taller va a ser en un ambiente dinámico,creativo y relajado -como acostumbramos en el Fab  Lab Yucatán-pero si tendrá un rigor fuerte y será intensivo. El taller se compone de tres módulos (M_1:visual, M_2:funcional y M_3:neural) y cada módulo está compuesto a su vez por tres tutoriales o más. La naturaleza es valorar la práctica sobre la teoría, e iremos a una velocidad cuántica puesto como contracultura de los talleres de python que pueden encontrar en internet. 
+
+Para que casi cualquier persona pueda pagar el taller estoy proponiendo un descuento del 50% a estudiantes y la posibilidad de ir gratis si demuestran interés serio al hacer alguno de los retos (link abajo). Asimismo, quiero que sepan que no se necesitan conocimientos de programación ni de python en específico para poder inscribirse al taller. Se ofrecerá asesoría personalizada para que todos empiecen más o menos al mismo nivel en el taller. 
+
+Este taller va principalmente dirigido a personas que estén apasionadas por la ciencia y el desarrollo tecnológico. Python es un lenguaje que te permite prototipar una idea increíblemente rápido. En el taller quiero demostrar que con python se pueden simular sistemas detallados, resolver problemas del día a día, hacer pruebas estadísticas e incluso predecir escenarios utilizando inteligencia artificial de manera sencilla. También quisiera invitar a artistas y diseñadores, así como a estudiantes de ciencias sociales y humanidades (historia y literatura) a tomar el curso ya que la comunidad de python es increíblemente flexible y se puede hacer también arte y música en este lenguaje. 
+
+Postearé todo el código del taller en Github (link abajo). Por tanto el valor no está en el código en sí sino en el 1) la información y el diálogo compartido durante el curso, 2) el seguimiento antes y después del curso, 3) las conexiones que formarán durante el curso. He dado cursos similares en la UADY y en el MIT Media Lab. Además, este será probablemente el último taller que imparta viviendo en Mérida (me voy al doctorado en Junio aprox) así que espero que vayan.
+
+
+
+Los módulos serán los siguientes:
+
+Módulo 1: Visual - 23 de Marzo. 
+El módulo M1 se va a enfocar en el análisis exploratorio de datos. Iniciaremos con una introducción a python y a las librerías de cómputo científico numpy y scipy. 
+
+Módulo 2: Funcional - 27 de Abril 
+En el M2, daremos un recorrido más profundo por el mundo de la probabilidad y estadística. Veremos como escribir nuestras propias funciones para hacer pruebas de hipótesis robustas, y como podemos simular grandes cantidades de muestras utilizando una distribución de datos limitada. 
+
+Una vez que tengamos una base sólida de estadística, analizaremos un poco de teoría de redes y procesos estocásticos. 
+
+Al final de éste módulo tendremos las bases para escribir nuestras propias funciones en python.
+
+
+
+Módulo 3: Neural - 25 Mayo 
+
+Este módulo será una introducción al machine learning. Veremos ejemplos de aprendizaje supervisado y no supervisado utilizando distintos tipos de datos: datos estructurados, imágenes, texto, e incluso audio. Utilizaremos las librerías de scikit learn y keras para demostrar que la inteligencia artificial puede ser fácil de utilizar en python. 
+
+
+Link de los retos para ganar becas:
+Github de TCD_19: https://github.com/eflobau/TCD_19
+Taller pasado en FIQ: https://github.com/eflobau/plasmidlab/
+
+Link de otros talleres de los que me he basado : 
+
+El curso del gran Jake Van der Plas https://jakevdp.github.io/PythonDataScienceHandbook/ 
+
+Curso de Python for Research de HarvardX 
+https://www.edx.org/es/course/using-python-for-research 
+
+
