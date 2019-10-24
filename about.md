@@ -11,4 +11,4 @@ I'm currently a grad student at Caltech and a moonlighting data cowboy.
 
 ### Contact me
 
-[manolo@caltech.edu](mailto:manolo@caltech.edu)
+[manuflores@caltech.edu](mailto:manuflores@caltech.edu)
